@@ -9,3 +9,8 @@ Category: Deep Learning
 Skills:
 Python,Python Web Frame Works - Flask,CNN
 
+Working:
+Run the app.py file. 
+Enter the url http://localhost:5000/ in the browser to access the Flask deployed web app.
+
+
